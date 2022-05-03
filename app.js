@@ -29,10 +29,7 @@ function addUser() {
 
     let text = document.createElement('div');
     let myPara = document.createElement('p');
-    myPara.innerHTML = 
-        /*added text */
-    'Dolor sit amet consectetur adipisicing elit. Iusto laudantium doloribus non ratione doloribus non 
-     ratione. Lorem ipsum dolor sit consectetur, adipisicing elit.';
+    myPara.innerHTML = "Dolor sit amet consectetur adipisicing elit. Iusto laudantium doloribus non ratione doloribus non ratione. Lorem ipsum dolor sit consectetur, adipisicing elit.";
     text.classList.add('text2');
     
     imageDiv.appendChild(image);
